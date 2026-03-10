@@ -1,0 +1,8 @@
+osmnx
+networkx
+pandas
+numpy
+scikit-learn
+folium
+flask
+geopy
